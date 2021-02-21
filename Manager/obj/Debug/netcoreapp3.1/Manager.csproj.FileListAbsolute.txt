@@ -1,0 +1,16 @@
+C:\Users\deniz\source\repos\Cryptography\Manager\bin\Debug\netcoreapp3.1\Manager.exe
+C:\Users\deniz\source\repos\Cryptography\Manager\bin\Debug\netcoreapp3.1\Manager.deps.json
+C:\Users\deniz\source\repos\Cryptography\Manager\bin\Debug\netcoreapp3.1\Manager.runtimeconfig.json
+C:\Users\deniz\source\repos\Cryptography\Manager\bin\Debug\netcoreapp3.1\Manager.runtimeconfig.dev.json
+C:\Users\deniz\source\repos\Cryptography\Manager\bin\Debug\netcoreapp3.1\Manager.dll
+C:\Users\deniz\source\repos\Cryptography\Manager\bin\Debug\netcoreapp3.1\Manager.pdb
+C:\Users\deniz\source\repos\Cryptography\Manager\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\deniz\source\repos\Cryptography\Manager\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\deniz\source\repos\Cryptography\Manager\obj\Debug\netcoreapp3.1\Manager.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\Cryptography\Manager\obj\Debug\netcoreapp3.1\Manager.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\Cryptography\Manager\obj\Debug\netcoreapp3.1\Manager.AssemblyInfo.cs
+C:\Users\deniz\source\repos\Cryptography\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\Cryptography\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.CopyComplete
+C:\Users\deniz\source\repos\Cryptography\Manager\obj\Debug\netcoreapp3.1\Manager.dll
+C:\Users\deniz\source\repos\Cryptography\Manager\obj\Debug\netcoreapp3.1\Manager.pdb
+C:\Users\deniz\source\repos\Cryptography\Manager\obj\Debug\netcoreapp3.1\Manager.genruntimeconfig.cache
